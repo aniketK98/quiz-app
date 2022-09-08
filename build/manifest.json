@@ -1,0 +1,6 @@
+{
+  "short_name": "Trivia App",
+  "name": "App for Quiz",
+  "start_url": ".",
+  "display": "standalone"
+}
